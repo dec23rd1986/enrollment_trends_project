@@ -4,9 +4,10 @@ After completing a SQL course, I wanted to apply what I learned through a hands-
 
 Tools used:
 
-SQL for data extraction and manipulation
-Python for data visualization (Matplotlib and Pandas)
-For a detailed analysis and insights, please refer to the accompanying Word document: "SQL Project: Enrollment Trends Analysis."
+- SQL for data extraction and manipulation
+- Python for data visualization (Matplotlib and Pandas)
+
+For a detailed analysis and insights, please download the accompanying Word document: "SQL Project: Enrollment Trends Analysis."
 
 Thank you,
 
