@@ -1,0 +1,75 @@
+institution_name,academic_year,enrollment_percentage_change
+"Angelo State University",fall_2021,NULL
+"Angelo State University",fall_2023,3.8150
+"Lamar University",fall_2021,NULL
+"Lamar University",fall_2023,7.8536
+"Midwestern State University",fall_2021,NULL
+"Midwestern State University",fall_2023,-3.9911
+"Prairie View A&M University",fall_2021,NULL
+"Prairie View A&M University",fall_2023,0.6629
+"Sam Houston State University",fall_2021,NULL
+"Sam Houston State University",fall_2023,-2.1584
+"Stephen F. Austin State University",fall_2021,NULL
+"Stephen F. Austin State University",fall_2023,-9.3119
+"Sul Ross State University",fall_2021,NULL
+"Sul Ross State University",fall_2023,-2.4242
+"Sul Ross State University Rio Grande College",fall_2021,NULL
+"Sul Ross State University Rio Grande College",fall_2023,-23.5714
+"Tarleton State University",fall_2021,NULL
+"Tarleton State University",fall_2023,3.7013
+"Texas A&M International University",fall_2021,NULL
+"Texas A&M International University",fall_2023,1.3628
+"Texas A&M University",fall_2021,NULL
+"Texas A&M University",fall_2023,5.2379
+"Texas A&M University at Galveston",fall_2021,NULL
+"Texas A&M University at Galveston",fall_2023,-0.7841
+"Texas A&M University-Central Texas",fall_2021,NULL
+"Texas A&M University-Central Texas",fall_2023,1.4878
+"Texas A&M University-Commerce",fall_2021,NULL
+"Texas A&M University-Commerce",fall_2023,4.8696
+"Texas A&M University-Corpus Christi",fall_2021,NULL
+"Texas A&M University-Corpus Christi",fall_2023,0.8642
+"Texas A&M University-Kingsville",fall_2021,NULL
+"Texas A&M University-Kingsville",fall_2023,2.7922
+"Texas A&M University-San Antonio",fall_2021,NULL
+"Texas A&M University-San Antonio",fall_2023,9.5217
+"Texas A&M University-Texarkana",fall_2021,NULL
+"Texas A&M University-Texarkana",fall_2023,-1.0587
+"Texas Southern University",fall_2021,NULL
+"Texas Southern University",fall_2023,12.5598
+"Texas State University",fall_2021,NULL
+"Texas State University",fall_2023,2.2686
+"Texas Tech University",fall_2021,NULL
+"Texas Tech University",fall_2023,1.6248
+"Texas Woman's University",fall_2021,NULL
+"Texas Woman's University",fall_2023,-4.0940
+"The University of Texas at Arlington",fall_2021,NULL
+"The University of Texas at Arlington",fall_2023,-0.3348
+"The University of Texas at Austin",fall_2021,NULL
+"The University of Texas at Austin",fall_2023,2.1183
+"The University of Texas at Dallas",fall_2021,NULL
+"The University of Texas at Dallas",fall_2023,4.0039
+"The University of Texas at El Paso",fall_2021,NULL
+"The University of Texas at El Paso",fall_2023,1.4498
+"The University of Texas at San Antonio",fall_2021,NULL
+"The University of Texas at San Antonio",fall_2023,2.0101
+"The University of Texas at Tyler",fall_2021,NULL
+"The University of Texas at Tyler",fall_2023,2.4300
+"The University of Texas Permian Basin",fall_2021,NULL
+"The University of Texas Permian Basin",fall_2023,4.7591
+"The University of Texas Rio Grande Valley",fall_2021,NULL
+"The University of Texas Rio Grande Valley",fall_2023,-0.4445
+"University of Houston",fall_2021,NULL
+"University of Houston",fall_2023,-0.9921
+"University of Houston-Clear Lake",fall_2021,NULL
+"University of Houston-Clear Lake",fall_2023,-11.5206
+"University of Houston-Downtown",fall_2021,NULL
+"University of Houston-Downtown",fall_2023,-6.4469
+"University of Houston-Victoria",fall_2021,NULL
+"University of Houston-Victoria",fall_2023,-9.8618
+"University of North Texas",fall_2021,NULL
+"University of North Texas",fall_2023,10.8044
+"University of North Texas at Dallas",fall_2021,NULL
+"University of North Texas at Dallas",fall_2023,-9.2690
+"West Texas A&M University",fall_2021,NULL
+"West Texas A&M University",fall_2023,-5.4060
